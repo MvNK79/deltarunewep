@@ -1,0 +1,60 @@
+.header {text-align: center;
+    display: block;
+background-color: rgb(16, 30, 102);
+overflow: auto;
+
+}
+
+.header li a {background-color: rgb(83, 104, 211);
+display: inline-block;
+color: white;
+padding: 14px 16px;
+border-radius: 15px;
+text-decoration: none;
+height: auto;
+width: 150px;
+text-align: center;
+}
+
+.main img {
+    width: 400px;
+    height: 300px;
+    margin: 15px;
+border: 5px solid rgb(12, 12, 12);
+
+
+}
+.main {text-align: center;
+background-color: rgb(62, 62, 67);
+margin: 0;
+overflow: auto;
+}
+
+.main p {font-size: larger;}
+
+.header li a:hover {background-color: rgb(26, 55, 96);
+}
+.header li {display: inline-block;
+text-align: center;}
+
+
+.footer {background-color: rgb(22, 23, 60);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+overflow: auto;}
+
+    .footer li {display: inline-block;
+    text-align: center;}
+    .footer li a {background-color: rgb(196, 205, 247);
+    display: inline-block;
+color: rgb(0, 0, 0);
+padding: 14px 16px;
+border-radius: 15px;
+text-decoration: none;
+height: auto;
+width: 150px;
+text-align: center;
+}
+.footer li a:hover {background-color: rgb(66, 85, 112);
+}
